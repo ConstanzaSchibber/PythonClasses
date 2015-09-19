@@ -18,10 +18,6 @@ from pdfminer.converter import PDFPageAggregator
 from pdfminer.pdfparser import PDFSyntaxError
 #from pdfminer.converter import TextConverter
 import nltk
-#from nltk.corpus import stopwords
-#import string
-#import logging
-#from io import open
 import codecs
 
 
