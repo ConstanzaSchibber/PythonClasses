@@ -5,7 +5,7 @@ Created on Nov 9, 2014
 
 @author: connieschibber
 
-Saving text in multiple languages. Example with Wikipedia.
+Saving text in multiple languages. Example with Wikipedia's Political Science page
 '''
 
 import urllib2
